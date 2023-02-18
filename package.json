@@ -1,0 +1,23 @@
+{
+  "name": "wordcloud-api",
+  "version": "1.0.0",
+  "description": "wordcloud api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddehne/wordcloud-api.git"
+  },
+  "author": "ddehne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddehne/wordcloud-api/issues"
+  },
+  "homepage": "https://github.com/ddehne/wordcloud-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
